@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Doob is a simple Discord bot.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Doob is a Discord bot made by mmatt using the discord.py library in coding language Python.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[matt@mmatt.net](mailto:matt@mmatt.net)
