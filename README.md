@@ -1,4 +1,6 @@
-# Doob's Development Blog
-Doob's Development Blog is the Development Blog for Doob.
+# [Doob's Development Blog](https://mmattbtw.github.io)
+Doob's Development Blog is the Development Blog for Doob, based on the [jekyll-now repository](https://github.com/barryclark/jekyll-now).
 
-ya know?
+## Visit the Dev blog over at [mmattbtw.github.io](https://mmattbtw.github.io)
+
+![Preview of the Website](https://i.imgur.com/W3gDdwr.png)
