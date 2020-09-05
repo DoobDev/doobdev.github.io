@@ -18,30 +18,30 @@ avatar: https://images.discordapp.net/avatars/680606346952966177/ada47c5940b5cf8
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: matt@mmatt.net
+  email: mmattbtw@pm.me
   facebook:
   flickr:
-  github: mmattbtw
+  github: doobdev
   instagram: mmattbtw
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: mmattbtw
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/12388205/mmatt # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: mmattbtw # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: doobdev
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://mmattbtw.github.io
+url: https://doobdev.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /blog/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
