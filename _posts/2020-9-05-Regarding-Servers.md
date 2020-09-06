@@ -12,7 +12,7 @@ Now before you ask, "Matt, how did you reach the limits, your bots aren't even i
 It was only, 750 a month. The servers usually ran at about 1000 hours a month (or sometimes less, but the main problem, is that it goes above 750.)
 So my carelessnes cost me. I used to pay AWS $5 a month for Route 53 stuff for my domains and EC2, but the bill had gone so far up, and I didn't even notice. So I am sorry, for not paying attention to my AWS dashbaord and my costs.
 
-Anyhow, now to move on from that and to mvoe on to some maybe good news! Wait, its more bad news? ugh.
+Anyhow, now to move on from that and to move on to some maybe good news! Wait, its more bad news? ugh.
 
 I tried to purchase a PebbleHost Discord Bot Server for my bots, until after the fact, I found out that it only runs 1 bot on a server, 1 bot.
 This sucks for me, because as you might know, Doob Dev owns about 3-4 Discord Bots that stay online. Even though the servers are cheap ($3 a month), I don't want to pay for multiple servers, if one server can do the job just fine.
