@@ -29,7 +29,7 @@ I am thinking of doing a price between $2.49/month and $4.99/month. For a lifeti
 3. Direct contact to the Developer
 4. Minimal bugs
 
-## Why did you close the source and make it so we have to pay you to use it, why not open the source and make it so we can pay you to host if for us.
+## Why did you close the source and make it so we have to pay you to use it, why not open the source and make it so we can pay you to host if for us if we wanted to.
 Good question!
 
 I mainly closed the source so that I could personally sell the bot without having to worry about some bootleg popping up and charging double for the bot, while not even being the main developer.
