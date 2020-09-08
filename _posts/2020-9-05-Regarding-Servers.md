@@ -2,6 +2,7 @@
 layout: post
 title: Regarding Servers
 ---
+# (this article has been updated on [9/8/2020], scroll to the bottom to see the edit)
 
 Regarding the server issue.
 
@@ -19,3 +20,7 @@ This sucks for me, because as you might know, Doob Dev owns about 3-4 Discord Bo
 
 
 In Conclusion, Doob Dev bots will continue to stay offline indefinently, until I find a server, maybe I will even self host for know, maybe I'll get a ras pi, idk. Thank you for reading and understanding.
+
+## UPDATE [9/8/2020]:
+
+I have purchased a RasPi with 2GB of ram, this should be good for now.
