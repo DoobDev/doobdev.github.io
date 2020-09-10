@@ -2,7 +2,7 @@
 layout: post
 title: Regarding Servers
 ---
-# (this article has been updated on [9/8/2020], scroll to the bottom to see the edit)
+# (this article has been updated on [9/9/2020], scroll to the bottom to see the edit)
 
 Regarding the server issue.
 
@@ -24,3 +24,7 @@ In Conclusion, Doob Dev bots will continue to stay offline indefinently, until I
 ## UPDATE [9/8/2020]:
 
 I have purchased a RasPi with 2GB of ram, this should be good for now.
+
+## UPDATE [9/9/2020]:
+
+The RasPi is coming soooon. About Tuesday.
