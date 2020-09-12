@@ -2,7 +2,7 @@
 layout: post
 title: Regarding Servers
 ---
-# (this article has been updated on [9/9/2020], scroll to the bottom to see the edit)
+# (this article has been updated on [9/12/2020], scroll to the bottom to see the edit)
 
 Regarding the server issue.
 
@@ -28,3 +28,7 @@ I have purchased a RasPi with 2GB of ram, this should be good for now.
 ## UPDATE [9/9/2020]:
 
 The RasPi is coming soooon. About Tuesday.
+
+## UPDATE [9/12/2020]:
+
+It came early! Doob is back up on the old update. Rewrite soon ^TM
