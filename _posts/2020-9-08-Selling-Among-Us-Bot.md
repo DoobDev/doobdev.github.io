@@ -2,6 +2,9 @@
 layout: post
 title: Selling Among Us Bot
 ---
+
+# EDIT (9/18/2020): This article is no longer relevent, as the Among Us Bot is getting rewritten to make it public! (You can still purchase your own custom instance of the bot over on my [Patreon Page](https://patreon.com/doobdev))
+
 Hey there! I (mmatt) made the Among Us Bot, and I am interested in selling it to some servers!
 
 ## Why am I selling it?
